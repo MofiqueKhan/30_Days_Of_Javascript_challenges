@@ -41,3 +41,4 @@ let sum = reduce(numbers, function(a, b) {
 }, 0);
 
 console.log("Sum of numbers:", sum);
+
